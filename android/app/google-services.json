@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081872949947",
+    "project_id": "rikshwa-f1c22",
+    "storage_bucket": "rikshwa-f1c22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081872949947:android:2e8d59611cca288e9fff9e",
+        "android_client_info": {
+          "package_name": "com.example.users_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2squbRmsT7wbs2tFHnyF1kI52XXNj5vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
