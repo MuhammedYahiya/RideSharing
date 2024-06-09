@@ -54,6 +54,7 @@ class DefaultFirebaseOptions {
     authDomain: 'rikshwa-f1c22.firebaseapp.com',
     storageBucket: 'rikshwa-f1c22.appspot.com',
     measurementId: 'G-QF5LLWZX69',
+    databaseURL: 'https://rikshwa-f1c22-default-rtdb.firebaseio.com/',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
